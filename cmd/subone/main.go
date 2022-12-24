@@ -1,5 +1,7 @@
-package subone
+package main
+
+import "fmt"
 
 func main() {
-	println("subone")
+	fmt.Println("subone")
 }
